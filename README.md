@@ -1,6 +1,8 @@
-# DesignPattern
+DesignPattern
+===
   note DP == DESIGN PRINCIPLE
 # Note
+
   多从 interface角度出发。 interface or abstractClass
   super(para) 调用父类有参构造函数
 
