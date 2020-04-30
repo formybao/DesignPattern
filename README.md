@@ -88,3 +88,6 @@ public class Singleton {
 > 一个线程修改了共享变量值，而另一个线程却看不到。引起可见性问题的主要原因是每个线程拥有自己的一个高速缓存区——线程工作内存。volatile关键字能有效的解决这个问题
 
 https://blog.csdn.net/fuyuwei2015/article/details/71939591
+
+## MVC 模式 model-view-controller
+web 架构
